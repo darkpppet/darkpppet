@@ -1,6 +1,6 @@
 <div align=center>
 
-<span style="font-size: 2em; font-weight: bold;">Darkpppet</span><br>
+# Darkpppet
 ## Game Client Developer
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=darkpppet)](https://solved.ac/darkpppet)
