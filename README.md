@@ -2,7 +2,7 @@
 - Game Client Developer
 
 ---
-### Primary Tehcnologies
+### Primary Technologies
 <div>
     <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
